@@ -19,9 +19,8 @@
 The build process can be quite long and tedious. This documentation tries to make things clear, but the CARLA forum is open to anybody who wants to post unexpected issues, doubts or suggestions. There is a specific section for installation issues in Linux. Feel free to login and become part of the community. 
 
 <div class="build-buttons">
-<!-- Latest release button -->
 <p>
-<a href="https://forum.carla.org/" target="_blank" class="btn btn-neutral" title="Go to the latest CARLA release">
+<a href="https://forum.carla.org/" target="_blank" class="btn btn-neutral" title="Go to the CARLA forum">
 CARLA forum</a>
 </p>
 </div>
